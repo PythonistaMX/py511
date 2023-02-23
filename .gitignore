@@ -131,3 +131,4 @@ dmypy.json
 datos/
 datos_json/
 datos_parquet/
+spark-warehouse/
