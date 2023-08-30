@@ -1,3 +1,4 @@
 pyspark
 nbserverproxy
 py4j
+pandas
