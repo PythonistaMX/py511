@@ -2,3 +2,6 @@ pyspark
 nbserverproxy
 py4j
 pandas
+delta-spark
+pandas
+dash
