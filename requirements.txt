@@ -5,3 +5,4 @@ pandas
 delta-spark
 pandas
 dash
+sparksql-magic
